@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an artificial intelligence project
+- 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning how to become a better software engineer
 - 📫 How to reach me: hey[at]nanhanglim[dot]com
 - 😄 Pronouns: he/him
